@@ -1,9 +1,9 @@
-#Mein Cooles Spiel
+# Mein Cooles Spiel
 
 2024 1AKIFT Bulme
 
 
--Schere 
--Stein
--Papier
+ -Schere 
+ -Stein
+ -Papier
 
